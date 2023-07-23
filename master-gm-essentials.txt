@@ -1,0 +1,2 @@
+Recap of Merge concepts to understand what is going to happen with Rebase.
+
